@@ -14,7 +14,7 @@ Prerequisite(s):  IT-1025 Information Technology Concepts for Programmers, or co
 MURACH'S HTML5+CSS3, 4th Edition, ISBN: 9781943872268
 
 # Lab Assignments
-[Lab 1](Labs/Lab1/readme.md)
+[Lab 1](Labs/Lab1/readme.md)<br />
 [Lab 2](Labs/Lab2/readme.md)
 
 # Examples
