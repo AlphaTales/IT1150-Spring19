@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(80, 161, 172);
+  }
+  
+  footer {
+    background-color: rgb(105, 80, 172);
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+ol {
+    background-color: blueviolet;
+}
