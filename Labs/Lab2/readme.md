@@ -24,11 +24,13 @@ There are two parts of this lab, one is written (edit this readme.md file) and t
 
 5. Both the paragraph and ordered list elements are both "boxes." Add a border, padding and a margin to either of these elements and format them with css
 
-6. Edit your css file to include styles for the border, margin and padding areas of your boxes
+6. Edit your css file to include styles for the border, margin and padding areas of your boxes. Be sure to also have paragraph tags in your other two pages so that you can see the impact
 
-7. Edit your css file to include (and implement) classes and ids.
+7. Edit your css file to include (and implement) classes and ids (in all three pages.)
+
+8. Be sure to include links to both stylesheets (normalize.css and your stylesheet) in all three pages.
    
-7. Take a screen shot of your web page in the browser and name the file "Lab2WebPage" Upload your image to the Lab1 directory
+9. Take a screen shot of your web page in the browser and name the file "Lab2WebPage1, Lab2WebPage2, Lab2Webpage3" Upload your images to the Lab1 directory
   
 ### Conclusion:
-"Type your lab conclusion here"
+"Type your lab conclusion here... be sure to include a discussion describing your box model and implementation of css."
