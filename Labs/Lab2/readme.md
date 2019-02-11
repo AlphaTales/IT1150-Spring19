@@ -14,18 +14,21 @@ There are two parts of this lab, one is written (edit this readme.md file) and t
 "Delete my instructions and replace with your response: Briefly (about a paragraph) explain what is meant by cascading style sheets (be sure to address external, embedded 
 
 ### Part 2 Hands-On:
-1. Open your cloned repository in Visual Studio Code and traverse to the "Lab1" Files.  Take a screen shot of your success and name the file "Lab1Part2No1" Upload your screen shot to the Lab1 directory
+1. Start with your lab 1 html and css files or, if you had difficulty, use the lab 2 files in this repo. Read all of the requirements and draw your web page as you expect it to look.  Scan and include this file in your submission.
 
-2. Pick a theme for your site. Find at least one image and one external site that you would like to include. Upload the image to your repository (locally and then "push" it to GitHub / conversly "pull" changes on GitHub to your local repo)
+2. If your file does not already have semantic tags add: nav, section, article and footer tags (see sample file)
 
-3. Using the semantic elements: header, main and footer edit the included .html file to create your web page. Be sure to include the folowing tags in your page:
-   1. h1/6, p, line break
-   2. Anchor
-   3. Image
-   4. CSS Link
-   5. List - ordered or unordered
+3. Add two more pages to your web site: about and contact and rename your "home" page to index.html
+
+4. In the "section" tag add a paragraph and ordered list
+
+5. Both the paragraph and ordered list elements are both "boxes." Add a border, padding and a margin to either of these elements and format them with css
+
+6. Edit your css file to include styles for the border, margin and padding areas of your boxes
+
+7. Edit your css file to include (and implement) classes and ids.
    
-4. Take a screen shot of your web page in the browser and name the file "Lab1Part2No3" Upload your image to the Lab1 directory
+7. Take a screen shot of your web page in the browser and name the file "Lab2WebPage" Upload your image to the Lab1 directory
   
 ### Conclusion:
 "Type your lab conclusion here"
