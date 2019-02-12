@@ -11,6 +11,9 @@ body {
     margin-left: 20px;
   }
 ol {
-    background-color: blueviolet;
-    width: 50%;
+  background-color: lightgrey;
+  width: 25%;
+  border: 25px solid green;
+  padding: 25px;
+ 
 }
