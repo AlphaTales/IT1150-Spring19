@@ -12,4 +12,5 @@ body {
   }
 ol {
     background-color: blueviolet;
+    width: 50%;
 }
