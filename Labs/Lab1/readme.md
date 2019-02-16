@@ -1,4 +1,4 @@
-## IT1150 Lab 1
+## IT1150 Lab 1hj
 
 There are two parts of this lab, one is written (edit this readme.md file) and the other is hands-on (edit .html and .css files.) 
 
